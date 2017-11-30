@@ -1,0 +1,54 @@
+SYS INFO: 
+	Available Processors == 4
+
+Running trial with 1 thread(s) ...
+      1000 elements  =>      15 ms 
+      2000 elements  =>       3 ms 
+      4000 elements  =>      15 ms 
+      8000 elements  =>      14 ms 
+     16000 elements  =>     217 ms 
+     32000 elements  =>     326 ms 
+     64000 elements  =>      64 ms 
+    128000 elements  =>     191 ms 
+    256000 elements  =>     294 ms 
+    512000 elements  =>     471 ms 
+   1024000 elements  =>    1329 ms 
+   2048000 elements  =>    2189 ms 
+   4096000 elements  =>    5283 ms 
+   8192000 elements  =>   11202 ms 
+  16384000 elements  =>   20188 ms 
+
+Running trial with 2 thread(s) ...
+      1000 elements  =>       1 ms 
+      2000 elements  =>       1 ms 
+      4000 elements  =>       2 ms 
+      8000 elements  =>       2 ms 
+     16000 elements  =>       3 ms 
+     32000 elements  =>       6 ms 
+     64000 elements  =>      13 ms 
+    128000 elements  =>      29 ms 
+    256000 elements  =>    1091 ms 
+    512000 elements  =>     300 ms 
+   1024000 elements  =>     473 ms 
+   2048000 elements  =>    1782 ms 
+   4096000 elements  =>    3044 ms 
+   8192000 elements  =>    5140 ms 
+  16384000 elements  =>   17597 ms 
+
+Running trial with 4 thread(s) ...
+      1000 elements  =>       3 ms 
+      2000 elements  =>       3 ms 
+      4000 elements  =>       2 ms 
+      8000 elements  =>       2 ms 
+     16000 elements  =>       3 ms 
+     32000 elements  =>       6 ms 
+     64000 elements  =>      12 ms 
+    128000 elements  =>      51 ms 
+    256000 elements  =>      60 ms 
+    512000 elements  =>     346 ms 
+   1024000 elements  =>     312 ms 
+   2048000 elements  =>     668 ms 
+   4096000 elements  =>    1948 ms 
+   8192000 elements  =>    7792 ms 
+  16384000 elements  =>   15999 ms 
+
