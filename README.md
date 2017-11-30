@@ -3,7 +3,6 @@
 <b>Metesis Project 6 Parallel</b>
 
 <p align="center">
-  <b>The Sauces:</b><br>
   <b> Object Oriented Programming: An implementation of Merge Sort (divide and conquer) using multi-threading
 </b>
   <a href="https://github.com/xyzst/Multithreaded_Merge_Sort">Inspiration</a> 
